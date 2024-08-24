@@ -1,4 +1,4 @@
-Pack name:  
-Pack URL:   
+Pack name:  More Buttons
+Pack URL:   https://modrinth.com/datapack/more-buttons-data-pack
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
