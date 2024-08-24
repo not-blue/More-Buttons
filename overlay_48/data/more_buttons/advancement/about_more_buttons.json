@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:oak_button"
+    },
+    "title": "More Buttons",
+    "description": "Updates all button crafting recipes to produce four buttons instead of one. Adds stonecutting recipes for stone and polished blackstone that create eight buttons.",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:notblue",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
