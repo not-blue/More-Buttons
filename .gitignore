@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 *.swp
+
+# dumb mac hidden files
+__MACOSX/
 .DS_Store
 
 # User-specific files (MonoDevelop/Xamarin Studio)
