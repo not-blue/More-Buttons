@@ -1,18 +1,14 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 48,
     "supported_formats": {
-      "min_inclusive": 15,
-      "max_inclusive": 999
+      "min_inclusive": 48,
+      "max_inclusive": 60
     },
     "description": "Get more buttons from crafting and stonecutting"
   },
   "overlays": {
     "entries": [
-      {
-        "formats": 41,
-        "directory": "overlay_41"
-      },
       {
         "formats": 48,
         "directory": "overlay_48"
@@ -24,6 +20,13 @@
       {
         "formats": {
           "min_inclusive": 61,
+          "max_inclusive": 999
+        },
+        "directory": "overlay_61"
+      },
+      {
+        "formats": {
+          "min_inclusive": 71,
           "max_inclusive": 999
         },
         "directory": "overlay_61"
