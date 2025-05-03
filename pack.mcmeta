@@ -10,10 +10,6 @@
   "overlays": {
     "entries": [
       {
-        "formats": 48,
-        "directory": "overlay_48"
-      },
-      {
         "formats": 57,
         "directory": "overlay_57"
       },
