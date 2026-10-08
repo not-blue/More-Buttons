@@ -2,9 +2,7 @@
   "type": "minecraft:stonecutting",
   "category": "redstone",
   "group": "rock_button",
-  "ingredient": {
-    "item": "minecraft:stone"
-  },
+  "ingredient": "minecraft:stone",
   "result": {
     "id": "minecraft:stone_button",
     "count": 6

@@ -3,10 +3,10 @@
   "category": "redstone",
   "group": "wooden_button",
   "ingredients": [
-    "minecraft:acacia_planks"
+    "minecraft:poplar_planks"
   ],
   "result": {
-    "id": "minecraft:acacia_button",
+    "id": "minecraft:poplar_button",
     "count": 4
   }
 }
